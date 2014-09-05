@@ -1,5 +1,5 @@
 ---
-title: "Reward Associations Capture Attention in Visual Search"
+title: "Attention Prioritizes the Processing of Highly Rewarded Objects than Poorly Rewarded Objects"
 author: "Gisella K. Diaz"
 date: "Monday, October 20, 2014"
 output:
@@ -11,14 +11,14 @@ output:
 
 <!-- Enter the code required to load your data in the space below. The data will be loaded but the line of code won't show up in your write up (echo=FALSE) in order to save space-->
 ```{r echo=FALSE}
-
+load(url("http://bit.ly/dasi_gss_data"))
 ```
 
 <!-- In the remainder of the document, add R code chunks as needed -->
 
 ### Introduction:
 
-At any given moment, our environment contains a lot of complex information. It is more inforaiton that we could ever process, which means that objects must compete to be represented in the brain. 
+At any given moment, our environment contains a lot of complex information. It is more information that we could ever process, which means that objects must compete to be represented in the brain. 
 
 
 ### Data:
